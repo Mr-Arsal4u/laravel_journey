@@ -1,0 +1,456 @@
+Uri: https://appstack.bootlab.io/dashboard-default.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-default.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/index.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\index.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-analytics.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-analytics.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-e-commerce.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-e-commerce.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-social.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-social.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-crypto.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-crypto.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-profile.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-profile.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-settings.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-settings.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-clients.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-clients.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-projects-list.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-projects-list.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-projects-detail.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-projects-detail.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-invoice.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-invoice.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-pricing.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-pricing.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-tasks.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-tasks.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-chat.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-chat.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-blank.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-blank.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-sign-in.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-sign-in.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-sign-up.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-sign-up.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-reset-password.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-reset-password.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-404.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-404.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/pages-500.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\pages-500.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/layouts-sidebar-sticky.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\layouts-sidebar-sticky.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/layouts-sidebar-collapsed.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\layouts-sidebar-collapsed.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/layouts-boxed.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\layouts-boxed.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-analytics.html?theme=classic
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-analytics-1.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-analytics.html?theme=corporate
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-analytics-2.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-analytics.html?theme=modern
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-analytics-3.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/docs-introduction.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\docs-introduction.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/docs-installation.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\docs-installation.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/docs-plugins.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\docs-plugins.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/docs-changelog.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\docs-changelog.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-alerts.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-alerts.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-buttons.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-buttons.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-cards.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-cards.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-carousel.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-carousel.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-embed-video.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-embed-video.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-general.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-general.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-grid.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-grid.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-modals.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-modals.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-tabs.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-tabs.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/ui-typography.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\ui-typography.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/icons-feather.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\icons-feather.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/icons-font-awesome.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\icons-font-awesome.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-layouts.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-layouts.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-basic-inputs.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-basic-inputs.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-input-groups.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-input-groups.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-bootstrap.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-bootstrap.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-advanced-inputs.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-advanced-inputs.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-editors.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-editors.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-validation.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-validation.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/forms-wizard.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\forms-wizard.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-datatables-responsive.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-datatables-responsive.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-datatables-buttons.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-datatables-buttons.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-datatables-column-search.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-datatables-column-search.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-datatables-multi.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-datatables-multi.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/tables-datatables-ajax.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\tables-datatables-ajax.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/charts-chartjs.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\charts-chartjs.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/charts-apexcharts.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\charts-apexcharts.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/notifications.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\notifications.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/maps-google.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\maps-google.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/maps-vector.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\maps-vector.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/calendar.html
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\calendar.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/js/settings.js
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\js\settings.js
+Content Type: application/javascript
+
+Uri: https://appstack.bootlab.io/img/avatars/avatar.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\avatars\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/avatars/avatar-5.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\avatars\avatar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/avatars/avatar-2.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\avatars\avatar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/avatars/avatar-4.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\avatars\avatar-4.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/avatars/avatar-3.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\avatars\avatar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/flags/us.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\flags\us.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/flags/es.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\flags\es.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/flags/de.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\flags\de.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/flags/nl.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\flags\nl.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/js/app.js
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\js\app.js
+Content Type: application/javascript
+
+Uri: https://appstack.bootlab.io/css/classic.css
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\css\classic.css
+Content Type: text/css
+
+Uri: https://appstack.bootlab.io/dashboard-default.html?theme=modern
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-default-1.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/dashboard-e-commerce.html?theme=corporate
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\dashboard-e-commerce-1.html
+Content Type: text/html
+
+Uri: https://appstack.bootlab.io/img/brands/bootstrap.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/brands/sass.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\sass.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/brands/webpack.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\webpack.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/brands/npm.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\npm.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/brands/jquery.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\jquery.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-default-large.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-default-large.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-analytics-large.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-analytics-large.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/theme-classic.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\theme-classic.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/theme-modern.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\theme-modern.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/theme-corporate.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\theme-corporate.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-default.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-default.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-analytics.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-analytics.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-e-commerce.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-e-commerce.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-social.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-social.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/dashboard-crypto.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\dashboard-crypto.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/screenshots/pages-projects-list.png
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\screenshots\pages-projects-list.png
+Content Type: image/png
+
+Uri: https://appstack.bootlab.io/img/brands/b.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\brands\b.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/img/photos/unsplash-2.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\photos\unsplash-2.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/photos/unsplash-3.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\photos\unsplash-3.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/img/photos/unsplash-1.jpg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\img\photos\unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.eot
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.eot?
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.woff2
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.woff
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.ttf
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://appstack.bootlab.io/fonts/fa-regular-400.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.eot
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.eot?
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900-1.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.woff2
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.woff
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.ttf
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://appstack.bootlab.io/fonts/fa-solid-900.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://appstack.bootlab.io/fonts/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\appstack.bootlab.io\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
